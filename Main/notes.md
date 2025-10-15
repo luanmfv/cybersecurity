@@ -167,6 +167,18 @@ nunca deixe o autorun de arquivos ou pen drive
 -------------------------------------------------------------------------------------
 
 
+recomenda-se deixar o usuario admin separado e um que você vai utilizar sem acesso de admin, somente pedindo a senha para permissões
+
+todos os sistemas operacionas estão abertos a vulnerabilidades
+
+ao compartilhar arquivos coloque senha e permissões de acesso adequadas
+
+sobre privacidade de dados, percebi que o tiktok sabe as coisas que pesquiso em outras redes como youtube, para manipular o algortimo, não pesquisei nada sobre cyber security no tiktok, mas sim no yt e começou a aparecer coisas sobre nele
+
+
+pelo que pesquisei, os anuncios que você ve no youtube troca essas informações com o tiktok, praticamente todas as redes sociais compartilham entre elas suas informações em troca de dinheiro para beneficio proprio.
+
+
 
 
 
