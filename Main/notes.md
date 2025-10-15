@@ -95,6 +95,82 @@ hoje em dia as redes de tv tem criptografia
 
 hoje em dia esta extinto phreakers
 
+--------------------------------------------------------------------------------------
+
+arquivos com zip no github pode conter virus
+
+senha forte no usuario, pen drives podem estar com malware
+
+Em 2016, o Mark Zuckerberg, dono do Facebook (agora Meta), postou uma foto comemorando o sucesso do Instagram, e os internautas perceberam que a webcam e o microfone do notebook dele estavam cobertos com fita adesiva.
+
+Isso viralizou porque mostrou que até ele se preocupa com privacidade e espionagem, algo que muita gente começou a imitar depois.
+
+
+
+uma coisa que acontece muito é você comentar por voz sobre um tema especifico eele começar a aparecer nas redes sociais logo em seguida
+
+ransom é um software que sequestra pasta / arquivo / pc todo
+
+
+com um malware, seu pc pode ser usado para infectar outros computadores, ou então para esconder a identidade real do atacante 
+
+invadem varios computadores e ai a policia não vai saber quem é por ter varias pessoas que fizeram o mesmo porém foi o atacante por varias invasões diferentes
+
+seu pc pode servir de repositorio para dados fraudulentos
+
+aplicar golpes em outros usuarios
+
+disseminar spam
+
+--------------------------------------------------------------------------------------
+
+manter os programas atualizados
+
+usar apenas programas originais
+
+um funcionario baixando programas piratas pode abrir brechas para vulnerabilidade e comprometer a empresa
+
+ caso não possa comprar a licença pesquise alternativas gratuitas ou mais baratas
+
+ recomendado antivirus bom kaspersky
+
+ que é pago, existem gratuitos mas não é recomendado
+
+ hostnet recomendada para hospedar site de forma segura, serviço pago
+
+ -------------------------------------------------------------------------------------
+ aplicações que pedem acesso a localização, fotos, contatos é para vender seus dados.
+
+ antimalware
+
+
+ virus é um tipo de malware
+
+ e antivirus é contra virus
+
+ windows defender por exemplo é antimalware
+
+ ter um antivirus n quer dizer que esta completamente seguro, mas ja ajuda bastante
+
+ nunca use antimalware crackeado
+
+ configure para verificar todos os formatos de arquivo
+
+ crie um disco de recuperação do sistema
+
+ ter um pendrive com disco de boot do seu antivirus
+
+antes de clicar em um link curto use um complemento que visualiza o link de destino
+
+nunca deixe o autorun de arquivos ou pen drive
+
+-------------------------------------------------------------------------------------
+
+
+
+
+
+
 
 
 
