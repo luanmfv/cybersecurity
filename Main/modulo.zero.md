@@ -178,6 +178,35 @@ sobre privacidade de dados, percebi que o tiktok sabe as coisas que pesquiso em 
 
 pelo que pesquisei, os anuncios que você ve no youtube troca essas informações com o tiktok, praticamente todas as redes sociais compartilham entre elas suas informações em troca de dinheiro para beneficio proprio.
 
+-------------------------------------------------------------------------------------
+
+Foi comentado sobre gestor de senha, irei pesquisar
+
+gestor de senha gratuito: https://bitwarden.com/
+
+comentado sobre mr robot, não é recomendado usar wi-fi publicos, é abertura para crackers
+
+antivirus bom para celular, pago é bitdefender, kaspersky, gratuito:
+
+o android vem om o play protect que fica dentro da playstore
+
+protege, apps, sites e dispositivo
+
+
+para ios temos o proprio do iso, porém se quiser melhorar gratuito tem avira, existe versão paga tb mas pago mesmo é norton 360  e bit defender
+
+--------------------------------------------------------------------------------------
+
+Deixar bluetooth ligado sem usar, recomenda-se desligar enquanto não estiver usando
+----
+
+para estudar mais, prossiga com os outros módulos existentes
+
+# Fim
+
+
+
+
 
 
 
